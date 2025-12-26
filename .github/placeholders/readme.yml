@@ -1,0 +1,12 @@
+REPO_TAGLINE: Advanced data structures • graphs • efficiency
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SCE0606-Algoritmos-e-Estrutura-de-Dados-II
+
+BG_1: "#022C22"
+BG_2: "#064E3B"
+TEXT_MAIN: "#ECFDF5"
+TEXT_MUTED: "#99F6E4"
+ACCENT: "#2DD4BF"
+CARD_RADIUS: "18"
