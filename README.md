@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SCE0606-Algoritmos-e-Estrutura-de-Dados-II">
-    <img src=".github/readme/hero.svg?v=2026-01-06T15:35:41.768095Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-07T03:38:54.904874Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
