@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SCE0606-Algoritmos-e-Estrutura-de-Dados-II">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:06.923089Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SCE0606-Algoritmos-e-Estrutura-de-Dados-II?utm_source=SCE0606-Algoritmos-e-Estrutura-de-Dados-II&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:09.772435Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
